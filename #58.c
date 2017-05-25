@@ -1,5 +1,6 @@
+/*print the word "hello"*/
 #include<stdio.h>
 int main()
 {
-	printf
+	printf("hello\n");
 }
